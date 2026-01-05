@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\filters\\nullparametercheckfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\filters\\nullparametercheckfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\filters\\globalexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\filters\\globalexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\filters\\loginlogfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\filters\\loginlogfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\filters\\actionlogfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\filters\\actionlogfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\filters\\adminauthorizationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\filters\\adminauthorizationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\studentmanagesystem.api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287776F-1A70-4A66-9632-F8DA8C450B28}|StudentManageSystem.Common\\StudentManageSystem.Common.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.common\\dbtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287776F-1A70-4A66-9632-F8DA8C450B28}|StudentManageSystem.Common\\StudentManageSystem.Common.csproj|solutionrelative:studentmanagesystem.common\\dbtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.model\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|solutionrelative:studentmanagesystem.model\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|solutionrelative:studentmanagesystem.model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.model\\loginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|solutionrelative:studentmanagesystem.model\\loginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\filters\\modelvalidationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\filters\\modelvalidationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.model\\queryscoremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591286ED-DBF7-41FE-88AF-00ACD0AB6E7C}|StudentManageSystem.Model\\StudentManageSystem.Model.csproj|solutionrelative:studentmanagesystem.model\\queryscoremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|solutionrelative:studentmanagesystem.dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|solutionrelative:studentmanagesystem.dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.bll\\loginlogbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|solutionrelative:studentmanagesystem.bll\\loginlogbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.dal\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|solutionrelative:studentmanagesystem.dal\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|solutionrelative:studentmanagesystem.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.bll\\scorebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|solutionrelative:studentmanagesystem.bll\\scorebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|solutionrelative:studentmanagesystem.bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.bll\\coursebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|solutionrelative:studentmanagesystem.bll\\coursebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.dal\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE1402B-3CE2-48F4-BB13-CDDE8A6F6395}|StudentManageSystem.DAL\\StudentManageSystem.DAL.csproj|solutionrelative:studentmanagesystem.dal\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\studentmanagesystem.bll\\iloginlogbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|solutionrelative:studentmanagesystem.bll\\iloginlogbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\loginlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\loginlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|d:\\downloads\\fall2025\\dotnet\\design\\studentmanagesystem12\\studentmanagesystem.api\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56D4D5A-20D7-4406-BB03-5B586A5FA0C6}|StudentManageSystem.API\\StudentManageSystem.API.csproj|solutionrelative:studentmanagesystem.api\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\studentmanagesystem.bll\\iscorebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118CB954-82FF-4997-8216-BB1897355D76}|StudentManageSystem.BLL\\StudentManageSystem.BLL.csproj|solutionrelative:studentmanagesystem.bll\\iscorebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\AdminController.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\AdminController.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\AdminController.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\AdminController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:45:09.182Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NullParameterCheckFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\NullParameterCheckFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Filters\\NullParameterCheckFilterAttribute.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\NullParameterCheckFilterAttribute.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Filters\\NullParameterCheckFilterAttribute.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:39:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginLogFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\LoginLogFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Filters\\LoginLogFilterAttribute.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\LoginLogFilterAttribute.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Filters\\LoginLogFilterAttribute.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:38:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionLogFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\ActionLogFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Filters\\ActionLogFilterAttribute.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\ActionLogFilterAttribute.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Filters\\ActionLogFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:37:17.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\GlobalExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Filters\\GlobalExceptionFilterAttribute.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\GlobalExceptionFilterAttribute.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Filters\\GlobalExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:37:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAuthorizationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\AdminAuthorizationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Filters\\AdminAuthorizationFilterAttribute.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\AdminAuthorizationFilterAttribute.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Filters\\AdminAuthorizationFilterAttribute.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:36:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Global.asax.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Global.asax.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Global.asax.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:53:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBTest.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Common\\DBTest.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.Common\\DBTest.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Common\\DBTest.cs",
+              "RelativeToolTip": "StudentManageSystem.Common\\DBTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:53:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\Score.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.Model\\Score.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\Score.cs",
+              "RelativeToolTip": "StudentManageSystem.Model\\Score.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:46:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.Model\\Course.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\Course.cs",
+              "RelativeToolTip": "StudentManageSystem.Model\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:45:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginLog.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\LoginLog.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.Model\\LoginLog.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\LoginLog.cs",
+              "RelativeToolTip": "StudentManageSystem.Model\\LoginLog.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:45:56.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelValidationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\ModelValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\Filters\\ModelValidationFilterAttribute.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\Filters\\ModelValidationFilterAttribute.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\Filters\\ModelValidationFilterAttribute.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:38:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QueryScoreModel.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\QueryScoreModel.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.Model\\QueryScoreModel.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.Model\\QueryScoreModel.cs",
+              "RelativeToolTip": "StudentManageSystem.Model\\QueryScoreModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:38:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\packages.config",
+              "RelativeDocumentMoniker": "StudentManageSystem.DAL\\packages.config",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\packages.config",
+              "RelativeToolTip": "StudentManageSystem.DAL\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-03T09:37:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginLogBll.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\LoginLogBll.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.BLL\\LoginLogBll.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\LoginLogBll.cs",
+              "RelativeToolTip": "StudentManageSystem.BLL\\LoginLogBll.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA4wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:32:34.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.DAL\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\IUnitOfWork.cs",
+              "RelativeToolTip": "StudentManageSystem.DAL\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:35:27.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.DAL\\ICourseRepository.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\ICourseRepository.cs",
+              "RelativeToolTip": "StudentManageSystem.DAL\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:35:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManageSystem.DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:35:25.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScoreBll.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\ScoreBll.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.BLL\\ScoreBll.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\ScoreBll.cs",
+              "RelativeToolTip": "StudentManageSystem.BLL\\ScoreBll.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBCwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:32:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentBll.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\StudentBll.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.BLL\\StudentBll.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\StudentBll.cs",
+              "RelativeToolTip": "StudentManageSystem.BLL\\StudentBll.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAA4wCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:29:46.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseBll.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\CourseBll.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.BLL\\CourseBll.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\CourseBll.cs",
+              "RelativeToolTip": "StudentManageSystem.BLL\\CourseBll.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIBBwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:20:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScoreRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\ScoreRepository.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.DAL\\ScoreRepository.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.DAL\\ScoreRepository.cs",
+              "RelativeToolTip": "StudentManageSystem.DAL\\ScoreRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T08:53:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\StudentController.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\StudentController.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\StudentController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:44:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\ScoreController.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\ScoreController.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\ScoreController.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\ScoreController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:43:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginLogController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\LoginLogController.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\LoginLogController.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\LoginLogController.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\LoginLogController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:43:32.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILoginLogBll.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\ILoginLogBll.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.BLL\\ILoginLogBll.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\ILoginLogBll.cs",
+              "RelativeToolTip": "StudentManageSystem.BLL\\ILoginLogBll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:39:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.API\\CourseController.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.API\\CourseController.cs",
+              "RelativeToolTip": "StudentManageSystem.API\\CourseController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:05:50.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IScoreBll.cs",
+              "DocumentMoniker": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\IScoreBll.cs",
+              "RelativeDocumentMoniker": "StudentManageSystem.BLL\\IScoreBll.cs",
+              "ToolTip": "D:\\Downloads\\Fall2025\\dotnet\\Design\\StudentManageSystem12\\StudentManageSystem.BLL\\IScoreBll.cs",
+              "RelativeToolTip": "StudentManageSystem.BLL\\IScoreBll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:47:21.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
